@@ -1,7 +1,7 @@
 # Autoscilab
 Code for the machine learning components of AutoSciLab
 
-This directory contains the scripts used in this work:
+This repository contains the scripts used in this work:
 The directory structure is as follows:
 vae/ - contains training and evaluation scripts for the VAE
 poly_slm/ - contains experimental results sweeping over grating and curvature for different angles
